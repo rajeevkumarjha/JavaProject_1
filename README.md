@@ -1,7 +1,5 @@
-# MVC project to be created
+#Java
 
-#To build Java based MVC project, all you need to have:
-1. Java and 
-2. Spring framework
+This repository contains Java based programmings.
 
-# to build scalable and robust application.
+
